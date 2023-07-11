@@ -82,3 +82,12 @@ section{
     font-weight: 700;
     color: #fff;
 }
+
+.insa{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 25px;
+}
