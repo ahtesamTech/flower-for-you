@@ -22,3 +22,49 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.home-bton{
+    background-color: #E55473;
+    color: #fff;
+    padding: 20px 45px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.feature-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.feature-flower{
+   margin-bottom: 10px;
+    margin-top: 15px;
+    width: 380px;
+    height: 390px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);    
+
+}
+.f-flower{
+    width: 300px;
+    height: 360px;
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 50px;
+}
+.hot-deal{
+    background-color: #E554730D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-text{
+    text-align: center;
+}
+.hot-t{
+    
+}
