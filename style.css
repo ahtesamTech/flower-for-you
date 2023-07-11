@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.home-page{
+    background-color: #E554731A;
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.home-page div > img{
+    height: 100vh;
+}
+.head-titel{
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+}
+.home-page div > p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
